@@ -9,5 +9,6 @@ https://jestjs.io/
 ##### JavaScript
 https://www.freecodecamp.org/learn  </br>
 https://www.linkedin.com/learning/javascript-essential-training-3/</br>
-https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList</br>
+https://blog.nerdjfpb.com/project-ideas-for-vanilla-javascript-beginners-to-expert/
 
