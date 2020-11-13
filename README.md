@@ -1,7 +1,8 @@
 # ResourcesToLearn
 
 ##### HTML and CSS
-   https://www.freecodecamp.org/learn
+https://www.freecodecamp.org/learn
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
    
 ##### JS testing 
 https://jestjs.io/
